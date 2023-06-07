@@ -13,6 +13,7 @@ body {
   height: 100vh;
   margin: 0;
   background-color: #9AD7FF;
+  /*background-image: url('https://source.unsplash.com/1600x900/?landscape')*/
 }
 
 .card {
@@ -28,7 +29,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
 
 button {
